@@ -1,6 +1,11 @@
 # Cyclistic Bikeshare: SQL Data Engineering & Analysis
 ### Project Overview
-This project analyzes over 5.8 million records of historical trip data from Cyclistic, a bike-share company in Chicago. The objective is to identify behavioral differences between annual members and casual riders to help design a marketing strategy aimed at converting casual riders into annual members.
+This project analyzes over **5.8 million records** of historical trip data from Cyclistic, a bike-share company in Chicago. The objective is to identify behavioral differences between annual members and casual riders to help design a marketing strategy aimed at converting casual riders into annual members.
+
+### Project Background
+Cyclistic is a successful bike-share program in Chicago that has grown to a fleet of over 5,800 bicycles and 600 docking stations. While their marketing strategy has previously focused on general awareness, the director of marketing now believes that maximizing the number of annual members is key to future growth.
+
+The goal of this project is to analyze the 5.8 million records of historical trip data to understand how annual members and casual riders use Cyclistic bikes differently. These data-driven insights will support the design of a new marketing strategy aimed at converting casual riders into long-term annual members.
 
 ### Technical SQL Process
 1. ### Data Cleaning & Integrity.
@@ -58,6 +63,7 @@ The following visualizations were created in Tableau to identify key differences
 **Preference**: Both groups show a strong preference for classic docked bikes over electric options.
 
 ### **Interactive Analysis**
-[![Cyclistic Bike-Share Tableau Dashboard](https://raw.githubusercontent.com/NnekaE/Cyclistic-Bikeshare-SQL-Analysis./main/dashboard_screenshot.png)](https://public.tableau.com/app/profile/nneka.ekwemuka/viz/DivvyTripdata_17002928690700/Dashboard2)
 
-*Click the image above to view the full interactive dashboard.*
+[![Cyclistic Dashboard](cyclistic_dashboard.png)](https://public.tableau.com/app/profile/nneka.ekwemuka/viz/DivvyTripdata_17002928690700/Dashboard2)
+
+**Click the image above to view the full interactive dashboard**
